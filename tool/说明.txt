@@ -1,0 +1,6 @@
+-本目录是生成代码需要的文件和jar包
+-generatorConfig.xml文件需配置：
+	1.jdbc连接数据库四要素
+	2.生成的包名和位置
+	3.要生成的表
+-若已配置path中已配置Jdk/bin，可直接运行start.bat生成代码
